@@ -3,3 +3,9 @@
 
 ## Outline of the neural network
 ![pic](https://github.com/kayikalvin/Breast-Cancer-NN-Classification/blob/main/neaural%20network.png)
+
+### Model Accuracy graph
+![pic](https://github.com/kayikalvin/Breast-Cancer-NN-Classification/blob/main/modelaccuracy.png)
+
+### Model loss graph
+![](https://github.com/kayikalvin/Breast-Cancer-NN-Classification/blob/main/modelloss.png)
